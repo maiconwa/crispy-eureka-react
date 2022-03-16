@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
 
 function Header() {
     const classes = useStyles();
-    return;
+    return (
         <React.Fragment>
             <CssBaseline />
             <AppBar>
@@ -28,5 +28,8 @@ function Header() {
                     </Typography>
                 </Tollbar>
             </AppBar>
-        </React.Fragment>;
+        </React.Fragment>
+    );
 }
+
+export default Header;
