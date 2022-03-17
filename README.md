@@ -1,5 +1,5 @@
 # crispy-eureka-react
-Django Rest Framework Series -Django DRF app and React Front-end - React app
+
 <p>
 This is not an stand alone application, this app was created to connect with a Django back-end project called crispy-eureka, this is just the front-end.
 <br>
